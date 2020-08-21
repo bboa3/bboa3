@@ -5,8 +5,11 @@
 
 # Arlindo Boa
 
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou um FullStack Developer :computer: apaixonado por resolver problemas utilizando a programação.
+<br/>Os pontos que me apoiam na minha trajetória:
+<br/>   o Andar de mãos dada com as melhores tecnologias do mercado
+<br/>   o Esforço-me continuamente péla excelência
+<br/>   o Sempre aberto as novas experiências
 
 :computer:  &nbsp; Atualmente desenvolvendo Websites na **Dortt**
 <br/> 💙 &nbsp; Buscando oportonidades que possam alavancar as minhas esperiencias no Front-end e Back-end usando React e Typescript
