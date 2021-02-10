@@ -1,4 +1,3 @@
-<img width= 200px src="https://github.com/arlindojos/dortt_v3/blob/master/src/assets/images/DSC_5457.jpg" alt="Logo da Proffy" />
 
 
 ### Hi 👋
