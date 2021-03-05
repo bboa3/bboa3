@@ -1,6 +1,6 @@
 
 
-### Hi 👋
+### Hi 🥰
 
 # Arlindo Boa
 <br/> :computer: &nbsp; Stack: ReactJS, Node.js, React Native & Typescript
