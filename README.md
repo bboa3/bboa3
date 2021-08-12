@@ -1,6 +1,6 @@
 
 
-### Hi 🥰! My name is Arlindo.
+### Hi 🤖!! My name is Arlindo.
 
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bboa3&theme=tokyonight"/>
