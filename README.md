@@ -21,7 +21,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <svg viewBox="0 0 128 128">
 </div>
+
+  <div style={'width': 100%}> 
   
+  ![Snake animation](https://github.com/monroy95/monroy95/assets/26640728/b1b0528f-ea52-4643-ad03-ec5bf35fe4c7)
+
+</div>
+
 ##
 
  
